@@ -64,4 +64,4 @@ venv.bak/
 *.jpeg
 *.gif
 *.pdf
-*.html 
+# *.html  # Commented out to allow HTML files for GitHub Pages 
