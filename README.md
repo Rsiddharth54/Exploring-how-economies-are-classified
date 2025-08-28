@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive analysis of economic classification systems, challenging the traditional reliance on Gross National Income (GNI) per capita as the sole criterion for classifying national economies.
 
+Certified by London School of Economics (LSE)
+
 ## Research Question
 
 **By which criteria should we classify economies? Does division based on GNI per capita levels make sense?**
