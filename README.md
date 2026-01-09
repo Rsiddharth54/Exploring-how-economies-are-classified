@@ -20,26 +20,17 @@ Traditional economic classification systems rely heavily on GNI per capita, whic
 6. **Institutional Factors** - Military expenditure, debt service, ODA, remittances
 7. **Health** - HIV prevalence, under-5 mortality, immunization coverage, life expectancy
 
-## Key Findings
+## Findings
 
-The analysis reveals that multidimensional measurement can unearth policy-relevant distinctions that GNI classification would obscure, such as:
+ Analysis reveals that multidimensional measurement can unearth policy-relevant distinctions that GNI classification would obscure, such as:
 - Middle-income countries with robust human capital but weak infrastructure
 - Countries with similar GNI per capita but vastly different development profiles
 - The importance of non-monetary dimensions in sustainable development
 
-## Repository Contents
-
-- **`Group_8 version 1.html`** - Complete analysis in HTML format (recommended for viewing)
-- **`Group_8 version 1.qmd`** - Quarto source file with all code and analysis
-- **`Group_8 version 1.ipynb`** - Jupyter notebook version
-- **`work/Data/`** - All data files used in the analysis
-- **`README.md`** - This documentation
 
 ## How to View the Analysis
 
-1. **For the best experience**: Open `Group_8 version 1.html` in any web browser
-2. **For interactive exploration**: Open `Group_8 version 1.ipynb` in Jupyter Notebook
-3. **For source code**: View `Group_8 version 1.qmd` in any text editor
+**Open View_Report/How-Should-We-Classify-Economies?**
 
 ## Technologies Used
 
